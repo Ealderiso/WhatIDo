@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 
-//Erik Alderiso 12/3/2015 3434
+//Erik Alderiso
 namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
